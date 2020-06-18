@@ -2,10 +2,7 @@
 날씨앱
 
 # Feature
-지도 검색, 탐색을 통한 날씨 정보 
-현재 날씨, 시간별 날씨 기본 제공
-PanGesture 기능을 사용하여 확장시 주간별 날씨 제공
-다크모드 지원
+지도 검색, 탐색을 통한 날씨 정보, 현재 날씨, 시간별 날씨 기본 제공, PanGesture 기능을 사용하여 확장시 주간별 날씨 제공, 다크모드 지원
 
 # ScreenShot
 <img width="250" alt="light_default" src="https://user-images.githubusercontent.com/57433826/85041794-5cb10480-b1c5-11ea-9a53-42459f4a2ee4.png">
